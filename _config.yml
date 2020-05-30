@@ -1,2 +1,3 @@
 name: Meera Bhat, AZ Learner
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
