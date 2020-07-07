@@ -24,6 +24,4 @@ were boring.
 The only reason I sugest reading before watching
 is that movies leave out some deatials or add things
 in. Reading the original copy is much better.
- 
- If you have any tips I should add email me
- at meerkatbhat@gmail.com 
+
