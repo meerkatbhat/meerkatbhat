@@ -7,7 +7,7 @@ date: 2020-05-31
 Finding the right author and genre is very importent if you want to enjoy reading.
 This page will show you how to identify your favorite genre's and authors. Good Luck!
 
-<strong>GENRE</strong>
+<h2> <strong>GENRE</strong> </h2>
 <ol>
   <li>Know what you find intresting.
 If your that princcess type of girl maybe you'll enjoy
@@ -21,4 +21,6 @@ were boring.
 The only reason I sugest reading before watching
 is that movies leave out some deatials or add things
 in. Reading the original copy is much better.
-
+    
+    h2{
+    color:rgb (196, 69, 224)
