@@ -9,15 +9,15 @@ This page will show you how to identify your favorite genre's and authors. Good 
 
 <h1> <strong>Finding the Genre</strong> </h1>
 <ol>
-  <li>Know what you find intresting.                      <img src="https://img.jakpost.net/c/2019/03/02/2019_03_02_66706_1551461528._large.jpg" alt="pile of books"
+  <li>Know what you find intresting.   <br>             <img src="https://img.jakpost.net/c/2019/03/02/2019_03_02_66706_1551461528._large.jpg" alt="pile of books"
 If your that princcess type of girl maybe you'll enjoy
 fantasy,on the other hand you might enjoy mystery.
   <li>Get recomendations from family and friends who are
 intrested in the same thing. Teachers help to.
-  <li>Dig deep. 
+  <li>Dig deep. <br>
 Reaserch those <em>famous authors<em> you thought
 were boring.
-  <li>4. Read the book, then watch the movive.
+  <li>4. Read the book, then watch the movive.<br>
 The only reason I sugest reading before watching
 is that movies leave out some deatials or add things
 in. Reading the original copy is much better.
