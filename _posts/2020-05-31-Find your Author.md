@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-       <meta charset="utf-8">FIn
-        <title>CSS Basics</title>
-        <style>
-          
-          
-          
-        </style>
-    </head>
+
     <body>
     <H1><strong> FINDING A GENRE </strong></H1>
     
