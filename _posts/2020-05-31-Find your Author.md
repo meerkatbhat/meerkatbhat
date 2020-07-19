@@ -1,6 +1,6 @@
 FINDING A GENRE 
  
-        1. Go to a library and just <strong>look</strong> at
+        1. Go to a library and just look at
        which titles and covers that seem intresting.
         2. The more recommendations you get from family and
        friends the better.
