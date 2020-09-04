@@ -9,4 +9,4 @@ friends the better.<br>
 5. Decide if you want to read it or not <br> 
 
 
-<img src="images/books.jpeg" width="300" height="300" class="the-pug">
+<img src="../images/books.jpeg" width="300" height="300" class="the-pug">
