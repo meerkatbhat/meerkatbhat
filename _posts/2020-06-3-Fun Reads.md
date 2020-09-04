@@ -3,8 +3,8 @@ layout: post
 title: "Fun Reads"
 date: 2020-06-3
 ---
-<h3>Hello again, these are just some books
-I enjoyed, and so will you!<h3>
+<h1>Hello again, these are just some books
+I enjoyed, and so will you!<h1>
 
 
 <h3>Harry Potter and the Scorerers Stone:5 stars <br>
