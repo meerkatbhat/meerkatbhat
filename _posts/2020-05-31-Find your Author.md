@@ -1,4 +1,5 @@
-<strong> <h1> Finding your genre <h1> <strong>
+<strong>Finding your genre <strong> <br>
+        
         1. Go to a library and just look at<br>
        which titles and covers that seem intresting.<br>
         2. The more recommendations you get from family and
