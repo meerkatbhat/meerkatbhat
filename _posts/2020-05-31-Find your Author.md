@@ -10,8 +10,4 @@ Finding your genre
         
         
         
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRs4_wy68GNYrYJgpsiFZZoE1CQp7q5DK6JZQ&amp;usqp=CAU" alt="Books &amp; Authors: A Great Alternative to Goodreads | The New York Public  Library"/>
-       
-   
-       
        
