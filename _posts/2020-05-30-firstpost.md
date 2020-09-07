@@ -4,9 +4,9 @@ title: "Meera's first post"
 date: 2020-05-30
 ---
 
-This is where I will record all my summeries, enjoy!
+<h1>This is where I will record all my summeries, enjoy!<h1>
 
-<H1> Mindset Chapter 1 <H1>
+<h2> Mindset Chapter 1 <h2>
  <h3> <p>At the beignning of chapter 1 the author, Carol S. Dweck
    says that first step to having a growth mindset is 
    learning to cope with falure, positively. To give you an example
@@ -15,11 +15,13 @@ This is where I will record all my summeries, enjoy!
    in school. He belived that education and practice. This proves that
    your traits and features aren't set in stone. 
    The Mindsets are described below
-   - Fixed, 'I'm a reject and loser.'
-   - Growth, 'I need to try harder to be better, and understand how other 
+   <ul>
+    <li> Fixed, 'I'm a reject and loser.'
+    <li> Growth, 'I need to try harder to be better, and understand how other 
      people are feeling.'
-   - Growth, 'I won't know if I can 'till I do!'
-   - Growth, turn failing into a learning experince
+    <li> Growth, 'I won't know if I can 'till I do!'
+    <li>Growth, turn failing into a learning experince
+   </ul>
    Many people of both mindsets read books like "7 secrets to success" but
    what most people don't relize is that, do these books ever tell you how or
    why to use these tips! When the mindsets are understood you'll get a 
