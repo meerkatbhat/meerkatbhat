@@ -9,7 +9,7 @@ I enjoyed, and so will you!<h2> <br>
 
 
 
-<h4> <a target= "blank" href="https://www.amazon.com/Tale-Magic/dp/0316523518/ref=pd_sbs_14_1/144-3793920-5857068?_encoding=UTF8&pd_rd_i=0316523518&pd_rd_r=e7f2de45-e7ea-48a8-8633-ca95cdfd616e&pd_rd"> Harry Potter and the Scorerers Stone  : 5 stars <br>
+<h4> <a target= "new tab " href="https://www.amazon.com/Tale-Magic/dp/0316523518/ref=pd_sbs_14_1/144-3793920-5857068?_encoding=UTF8&pd_rd_i=0316523518&pd_rd_r=e7f2de45-e7ea-48a8-8633-ca95cdfd616e&pd_rd"> Harry Potter and the Scorerers Stone  : 5 stars <br>
 Harry Potter and the Chamber of Secrets: 4 stars <br>
 Harry Potter and the Prisoner of Azkaban: 5 stars <br>
 Harry Potter and the Goblet of Fire: 4 stars <br>
