@@ -16,11 +16,11 @@ date: 2020-05-30
    your traits and features aren't set in stone. 
    The Mindsets are described below
    <ul>
-    <li> Fixed, 'I'm a reject and loser.'
-    <li> Growth, 'I need to try harder to be better, and understand how other 
+    <li> <strong>Fixed,</strong> 'I'm a reject and loser.'
+    <li> <strong>Growth,</strong> 'I need to try harder to be better, and understand how other 
      people are feeling.'
-    <li> Growth, 'I won't know if I can 'till I do!'
-    <li>Growth, turn failing into a learning experince
+    <li> <strong>Growth,</strong> 'I won't know if I can 'till I do!'
+    <li> <strong>Growth,</strong> turn failing into a learning experince
    </ul>
    Many people of both mindsets read books like "7 secrets to success" but
    what most people don't relize is that, do these books ever tell you how or
