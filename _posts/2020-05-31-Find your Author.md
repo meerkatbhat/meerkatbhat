@@ -9,6 +9,5 @@ friends the better.
   <li> Read the summary or skim through some pages
   <li> Decide if you want to read it or not
 </ol>
-
 <img src= "../images/books.jpeg" width="500" height="350" class="the-pug">
 
