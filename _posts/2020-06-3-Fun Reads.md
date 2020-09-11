@@ -29,4 +29,4 @@ A tale of Witchcraft:<br>
 		}
 	</style>
  </div><!-- /.blurb -->
-        
+	 </stlye>
