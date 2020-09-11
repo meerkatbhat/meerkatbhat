@@ -4,7 +4,7 @@ title: "Fun Reads"
 date: 2020-06-3
 ---
 <stlye>
-.lovey-dovey {
+.fire {
             color: red;
         }
 </style>
@@ -25,4 +25,4 @@ Wonder: 5 stars <br>
 Auggie and Me: 4 stars <br>
 <a href="https://www.amazon.com/Tale-Magic/dp/0316523518/ref=pd_sbs_14_1/144-3793920-5857068?_encoding=UTF8&pd_rd_i=0316523518&pd_rd_r=e7f2de45-e7ea-48a8-8633-ca95cdfd616e&pd_rd">Tale of Magic: 5 stars <br> </a>
 A tale of Witchcraft:<br>
-<span class= "fire">Words on Fire</span: 4 1\2 stars <br> <h3>
+            <span class= "fire">Words on Fire</span>: 4 1\2 stars <br> <h3>
