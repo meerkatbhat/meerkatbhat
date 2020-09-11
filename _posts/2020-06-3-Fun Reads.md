@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Fun Reads"
+date: 2020-06-3
+---
 <stlye>
 .fire {
             color: red;
         }
 </style>
-date: 2020-06-3
----
 <h2>Hello again, these are just some books
 I enjoyed, and so will you!<h2> <br>
 
