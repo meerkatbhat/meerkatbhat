@@ -5,16 +5,20 @@ date: 2020-06-3
 ---
 <!DOCTYPE html>
 <html>
-  <head> 
- <title>CSS Basics</title>
-        <style>
+    <head>
+        <meta charset="utf-8">
+        <title>CSS Basics</title>
         
         h2 {
             color: rgb(0, 232, 15);
         }  
+        
+        body {
+            background-color: rgb(184, 153, 39);
+        }
             
         </style>
-</head>        
+    </head>
 <body>
 <h2>Hello again, these are just some books
 I enjoyed, and so will you!<h2> <br>
