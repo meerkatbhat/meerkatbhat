@@ -2,6 +2,7 @@
 layout: post
 title: "Fun Reads"
 date: 2020-06-3
+---
 <!DOCTYPE html>
  <title>CSS Basics</title>
         <style>
@@ -11,7 +12,7 @@ date: 2020-06-3
         }  
             
         </style>
----
+<body>
 <h2>Hello again, these are just some books
 I enjoyed, and so will you!<h2> <br>
   </stlye>
@@ -31,4 +32,5 @@ Auggie and Me: 4 stars <br>
 A tale of Witchcraft:<br>
  <div class="blurb">
  Words on Fire: 4 1\2 stars <br> <h3>
+  </body>
   
