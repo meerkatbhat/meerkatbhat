@@ -31,7 +31,7 @@ Harry Potter and the Goblet of Fire: 4 stars <br>
 Harry Potter and the Order of the Phoenix: 5 stars <br>
 Harry Potter and the Half-Blood Prince: 5 stars <br>
   Harry Potter and the Deathly Hallows: 5 stars <br> </a>
-    <a href="https://www.amazon.com/Wonder-R-J-Palacio/dp/0375869026"</a>Wonder: 5 stars <br>
+    <a href="https://www.amazon.com/Wonder-R-J-Palacio/dp/0375869026">Wonder: 5 stars <br> </a>
 Auggie and Me: 4 stars <br>
 <a href="https://www.amazon.com/Tale-Magic/dp/0316523518/ref=pd_sbs_14_1/144-3793920-5857068?_encoding=UTF8&pd_rd_i=0316523518&pd_rd_r=e7f2de45-e7ea-48a8-8633-ca95cdfd616e&pd_rd">Tale of Magic: 5 stars <br> </a>
 A tale of Witchcraft:<br>
