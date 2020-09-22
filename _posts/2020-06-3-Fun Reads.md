@@ -2,7 +2,6 @@
 layout: post
 title: "Fun Reads"
 date: 2020-06-3
----
 <!DOCTYPE html>
  <title>CSS Basics</title>
         <style>
@@ -12,6 +11,7 @@ date: 2020-06-3
         }  
             
         </style>
+---
 <h2>Hello again, these are just some books
 I enjoyed, and so will you!<h2> <br>
   </stlye>
