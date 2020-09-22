@@ -14,11 +14,12 @@ date: 2020-06-3
         }  
             
         </style>
+</head>        
 <body>
 <h2>Hello again, these are just some books
 I enjoyed, and so will you!<h2> <br>
   </stlye>
- </head>
+
 
 
 <h3> <a href="https://www.amazon.com/Harry-Potter-Paperback-Box-Books/dp/0545162076/ref=sr_1_3?dchild=1&keywords=harry+potter+book+set&qid=1599514810&sr=8-3">Harry Potter and the Scorerers Stone  : 5 stars <br>
