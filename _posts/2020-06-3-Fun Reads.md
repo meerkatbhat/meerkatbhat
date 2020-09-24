@@ -4,7 +4,6 @@ title: "Fun Reads"
 date: 2020-06-3
 ---
 <div class="blurb">
-    
 	<style>
 	h1 {
 	    color:rgb(191, 0, 255);
