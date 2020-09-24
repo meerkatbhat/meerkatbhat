@@ -3,19 +3,13 @@ layout: post
 title: "Fun Reads"
 date: 2020-06-3
 ---
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>CSS Basics</title>
-        h2 {
-            color: rgb(0, 232, 15);
-        }  
-        body {
-            background-color: rgb(184, 153, 39);
-        }   
-        </style>
-    </head>
+<div class="blurb">
+    
+	<style>
+	h1 {
+	    color:rgb(191, 0, 255);
+		}
+	</style>
     
 <body>
 <h2>Hello again, these are just some books
