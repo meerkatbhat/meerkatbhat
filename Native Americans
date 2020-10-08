@@ -1,0 +1,14 @@
+---
+layout: default
+title: Meera B
+---
+<div class="blurb">
+	<h1>Native Americans</h1>
+</div><!-- /.blurb -->
+	<style>
+	h1 {
+	    color:rgb(1207, 105, 45);
+		}
+	</style>
+<body>
+		</body>
