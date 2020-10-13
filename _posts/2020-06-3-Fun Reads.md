@@ -2,7 +2,8 @@
 layout: post
 title: "Fun Reads"
 date: 2020-06-3
----<style>
+---
+<style>
 	h2 {
 	    color:rgb(5, 143, 255));
 		}
