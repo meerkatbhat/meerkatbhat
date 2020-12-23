@@ -11,7 +11,7 @@ date: 2020-06-3
 <div class="blurb">
 	<h2>Hello again, these are just some books
 I enjoyed, and so will you!<h2>
-</div><!-- /.blurb -->
+
     
 <body>
 <h2>Hello again, these are just some books
@@ -34,5 +34,5 @@ A tale of Witchcraft:<br>
  <div class="blurb">
  Words on Fire: 4 1\2 stars <br> <h3>
   </body>
-  <html>
+  </html>
   
