@@ -6,6 +6,7 @@ title: "Fun Reads"
 <style>
 	h2 {
 	    color:rgb(5, 143, 255));
+	    font-family: "Helvetica", sans-serif;
 		}
 	</style>
 <div class="blurb">
@@ -32,7 +33,6 @@ Auggie and Me: 4 stars <br>
 A tale of Witchcraft:<br>
  <div class="blurb">
  Words on Fire: 4 1\2 stars <br> <h3>
-	 
-  </body>
-  </html>
+</body>
+  
   
